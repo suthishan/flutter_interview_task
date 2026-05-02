@@ -363,19 +363,3 @@ Files are selected via `file_picker` and their metadata (name, size) is captured
 ### flutter analyze
 The project passes `flutter analyze` with **zero errors and zero warnings** prior to submission.
 
----
-
-## Screen Recording
-
-> 📹 **Screen Walkthrough:** *(Link to be added upon submission — Loom / screen recording, max 5 minutes)*
-
-The walkthrough covers all 5 screens with one key implementation decision highlighted per task:
-1. **Task 1:** Reactive date filtering via Riverpod derived providers
-2. **Task 2:** GPS state simulation and `GpsErrorView` as a non-Scaffold widget
-3. **Task 3:** `LeadClassificationSelector` card design and animated segment field transitions
-4. **Task 4:** Real `file_picker` integration and the 4-state `UploadTile` state machine
-5. **Task 5:** Priority queue logic in `DashboardState.filteredLeads` and `TimelineTile` custom widget
-
-
-
-*Built for a Sales Officer in a poultry farm with a dusty screen and 4G connectivity.*
