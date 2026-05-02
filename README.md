@@ -376,18 +376,6 @@ The walkthrough covers all 5 screens with one key implementation decision highli
 4. **Task 4:** Real `file_picker` integration and the 4-state `UploadTile` state machine
 5. **Task 5:** Priority queue logic in `DashboardState.filteredLeads` and `TimelineTile` custom widget
 
----
 
-## Submission Details
-
-| Detail | Information |
-|---|---|
-| Repository | [https://github.com/suthishan/flutter_interview_task](https://github.com/suthishan/flutter_interview_task) |
-| Figma | [Japfa Assignment Design](https://www.figma.com/design/WoZTwWzU8Q0nurWm5RG4cE/Japfa_addignment?node-id=0-1&t=BaXyG5qAsibYmgiF-1) |
-| Hiring Contact | Suthishan Murali — Manager, Digital Platforms |
-| Department | IT Digital Platforms, Japfa Comfeed India Pvt. Ltd. |
-| Email Subject | Flutter Dev Task – [Your Name] |
-
----
 
 *Built for a Sales Officer in a poultry farm with a dusty screen and 4G connectivity.*
